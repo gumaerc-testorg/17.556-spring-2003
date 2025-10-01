@@ -9,7 +9,7 @@ ocw_type: CourseSection
 title: Readings
 uid: f4255097-d4c2-df47-5992-f78e2e1771b4
 ---
-Alford, William. ["The More Law, the More . . .? Measuring Legal Reform in the People's Republic of China" (PDF)](http://web.stanford.edu/group/siepr/cgi-bin/siepr/?q=system/files/shared/pubs/papers/pdf/credpr59.pdf)*.* Center for Research on Economic Development and Policy Reform: Working Paper no. 59, Stanford University. (August 2000.)
+Alford, William. {{% resource_link "778f17b1-0e57-4ab3-a9d2-8f4968631f1b" "\"The More Law, the More . . .? Measuring Legal Reform in the People's Republic of China\" (PDF)" %}}*.* Center for Research on Economic Development and Policy Reform: Working Paper no. 59, Stanford University. (August 2000.)
 
 Amsden, Alice. *Asia's Next Giant.* New York: Oxford Univ. Press, 1989, Chap. 1 (pp. 3-23).
 
@@ -31,15 +31,15 @@ Chandler, Alfred D., and Takashi Hikino. "The Large Industrial Enterprise and t
 Clayton, Christensen M. "The Innovator's Dilemma." HBS Press, 1997, pp. ix-xxiv, 3-59.
 
 Dani Rodrick. "Institutions, Integration, and Geography: In Search of the Deep Determinants of Economic Growth."  (February 2002).     
-[https://drodrik.scholar.harvard.edu/publications/institutions-integration-and-geography-search-deep-determinants-economic](https://drodrik.scholar.harvard.edu/publications/institutions-integration-and-geography-search-deep-determinants-economic)
+{{% resource_link "c88289c5-02c5-42e6-825e-17f8cf0dba8e" "https://drodrik.scholar.harvard.edu/publications/institutions-integration-and-geography-search-deep-determinants-economic" %}}
 
 \------. "Feasible Globalizations."     
-[https://drodrik.scholar.harvard.edu/publications/feasible-globalizations](https://drodrik.scholar.harvard.edu/publications/feasible-globalizations)
+{{% resource_link "53e9d0a1-b1c5-437d-995a-6c7d70585cc4" "https://drodrik.scholar.harvard.edu/publications/feasible-globalizations" %}}
 
 Evans, Peter J. *Embedded Autonomy: States and Industrial Transformation.* Princeton, 1995, (pp. 3-73).
 
 Francis Fukuyama. "Social Capital and Civil Society." IMF Working Paper WP/00/74. (April 2000).     
-[http://www.imf.org/external/pubs/ft/wp/2000/wp0074.pdf](http://www.imf.org/external/pubs/ft/wp/2000/wp0074.pdf)
+{{% resource_link "f3fd37d3-e13c-4854-8f0b-aabc515fccb9" "http://www.imf.org/external/pubs/ft/wp/2000/wp0074.pdf" %}}
 
 Fujimoto, Takahiro. "Organizational Diversity and Corporate Performance." Paper prepared for the Conference on Innovation within Firms, Saint-Gobain Centre for Economic Research, Paris, November 2002.
 
@@ -60,20 +60,20 @@ Margaret, Margaret, Dani Rodrik, and Karen Horn Welch. "When Economic Reform Go
 )
 
 North, Douglass, and Barry Weingast. "Constitutions and Commitment: The Evolution of Institutions Governing Public Choice in Seventeenth Century England." *Journal of Economic History* 49 (December 1989): 803-832     
-[http://links.jstor.org/sici?sici=00220507%28198912%2949%3A4%3C803%3ACACTEO%3E2.0.CO%3B2-9](http://links.jstor.org/sici?sici=00220507%28198912%2949%3A4%3C803%3ACACTEO%3E2.0.CO%3B2-9)
+{{% resource_link "123cb09b-3d06-4416-8e34-2749e2a24a92" "http://links.jstor.org/sici?sici=00220507%28198912%2949%3A4%3C803%3ACACTEO%3E2.0.CO%3B2-9" %}}
 
 Olson, Mancur. *Power and Prosperity.* New York: Basic Books, 2000, Chap. 1 and 2 (pp. 1-43).
 
 Przeworski, Adam, and Fernando Limongi. "Political Regimes and Economic Growth." *Journal of Economic Perspectives 7* (Summer 1993): 51-69.     
-[http://links.jstor.org/sici?sici=08953309%28199322%297%3A3%3C51%3APRAEG%3E2.0.CO%3B2-L](http://links.jstor.org/sici?sici=08953309%28199322%297%3A3%3C51%3APRAEG%3E2.0.CO%3B2-L)
+{{% resource_link "8c0e9ebd-a845-4cc7-9f96-25d1d2cbc0e7" "http://links.jstor.org/sici?sici=08953309%28199322%297%3A3%3C51%3APRAEG%3E2.0.CO%3B2-L" %}}
 
 Putnam, Robert D. In *Making Democracy Work: Civic Traditions in Modern Italy.* Princeton: Princeton Univ. Press, 1993, Chapters 4-6 (pp. 121-185).
 
 Sachs, Jeffrey D., and Andrew M. Warner. "Economic Convergence and Economic Policies." NBER Working Paper No. 5039, (February 1995).     
-[http://papers.nber.org/papers/w5039.pdf](http://papers.nber.org/papers/w5039.pdf)
+{{% resource_link "eb58fc30-b9d0-4b20-9d8b-1ffd5b80bc8e" "http://papers.nber.org/papers/w5039.pdf" %}}
 
 Saxenian, Anna Lee.  "Taiwan's Hsinchu Region: Imitator and Partner for Silicon Valley." SIEPR Discussion Paper no. 00-44, Stanford University, June 2001.     
-[https://siepr.stanford.edu/research/publications/taiwans-hsinchu-region-imitator-and-partner-silicon-valley](https://siepr.stanford.edu/research/publications/taiwans-hsinchu-region-imitator-and-partner-silicon-valley)
+{{% resource_link "9e485925-a07c-4931-9c7e-2dc988690be2" "https://siepr.stanford.edu/research/publications/taiwans-hsinchu-region-imitator-and-partner-silicon-valley" %}}
 
 Schumpeter, Joseph. Chap. XII-XVII in *Capitalism, Socialism, and Democracy.* New York: Harper and Row, \[1942\] 1976, pp. 131-199.
 
@@ -86,22 +86,22 @@ Steinfeld, Edwardn S. "Chinese Enterprise Development and the Challenge of Globa
 Stiglitz, Joseph E. *Globalization and Its Discontents.* New York: W.W. Norton, 2002, 23-88.
 
 \------. "Redefining the Role of the State." Paper presented on the Tenth Anniversary of MITI Research Center. (March 1998).     
-[http://people.ds.cam.ac.uk/mb65/library/stiglitz-1998.pdf](http://people.ds.cam.ac.uk/mb65/library/stiglitz-1998.pdf)
+{{% resource_link "0f87d86b-8c1a-4837-b399-235792b13e05" "http://people.ds.cam.ac.uk/mb65/library/stiglitz-1998.pdf" %}}
 
 \------. "Wither Reform? Ten Years of Transition." Paper prepared for World Bank Annual Conference on Development Economics, Washington DC. (April, 1999).     
-[http://www.worldbank.org/research/abcde/washington_11/pdfs/stiglitz.pdf](http://www.worldbank.org/research/abcde/washington_11/pdfs/stiglitz.pdf)
+{{% resource_link "bbfd458f-6795-4a5c-98d3-5cb0ebfb2900" "http://www.worldbank.org/research/abcde/washington_11/pdfs/stiglitz.pdf" %}}
 
 United Nations Development Programme. *Arab Human Development Report 2002.* skim entire report but focus on Chapters 1, 2 and 7.     
-[http://www.undp.org/rbas/ahdr/bychapter.html](http://www.meforum.org/513/how-the-arabs-compare)
+{{% resource_link "33ed8b92-b8fa-45d4-af7d-aa76bd571ec8" "http://www.undp.org/rbas/ahdr/bychapter.html" %}}
 
 Wade, Robert. *Governing the Market.* Princeton, 1990, (pp. 8-112).
 
 Williamson, John. "What Should the World Bank Think about the Washington Consensus?" *The World Bank Research Observer* 15, 2 (Aug. 2000): 251-64.     
-[http://www.worldbank.org/research/journals/wbro/obsaug00/pdf/(6)Williamson.pdf](http://www.worldbank.org/research/journals/wbro/obsaug00/pdf/(6)Williamson.pdf)
+{{% resource_link "5ffc75c0-4f44-4a32-a508-3a053fb783c2" "http://www.worldbank.org/research/journals/wbro/obsaug00/pdf/(6)Williamson.pdf" %}}
 
 ## Supplementary:
 
 Moises Naim. "Fads and Fashion in Economic Reforms: Washington Consensus or Washington Confusion?" Paper prepared for IMF Conference on Second Generation Reforms, Washington DC, 1999.     
-[http://www.imf.org/external/pubs/ft/seminar/1999/reforms/Naim.HTM#I](http://www.imf.org/external/pubs/ft/seminar/1999/reforms/Naim.HTM#I)
+{{% resource_link "07d63f98-2cf9-4fd3-a63a-f75917ad44af" "http://www.imf.org/external/pubs/ft/seminar/1999/reforms/Naim.HTM#I" %}}
 
 Shahid, Yusuf, et. al. "Innovative East Asia: The Future of Growth." Chap. 4 in *The Transition to Innovative Economies in East Asia.* Washington: World Bank, 2003, pp. 141-180.

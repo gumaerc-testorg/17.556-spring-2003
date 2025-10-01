@@ -29,13 +29,13 @@ Exchange Schools and Production Schools
 Amsden, Alice. In *The Rise of 'The Rest'.* Oxford, 2001, pp. 31-121.
 
 Sachs, Jeffrey D., and Andrew M. Warner. "Economic Convergence and Economic Policies." NBER Working Paper No. 5039, February 1995.    
-[http://papers.nber.org/papers/w5039.pdf](http://papers.nber.org/papers/w5039.pdf)
+{{% resource_link "eb58fc30-b9d0-4b20-9d8b-1ffd5b80bc8e" "http://papers.nber.org/papers/w5039.pdf" %}}
 
 Dani Rodrick, "Institutions, Integration, and Geography: In Search of the Deep Determinants of Economic Growth, February 2002.    
-[https://drodrik.scholar.harvard.edu/publications/institutions-integration-and-geography-search-deep-determinants-economic](https://drodrik.scholar.harvard.edu/publications/institutions-integration-and-geography-search-deep-determinants-economic)
+{{% resource_link "c88289c5-02c5-42e6-825e-17f8cf0dba8e" "https://drodrik.scholar.harvard.edu/publications/institutions-integration-and-geography-search-deep-determinants-economic" %}}
 
 Supplementary:  Moises Naim, "Fads and Fashion in Economic Reforms: Washington Consensus or Washington Confusion?" Paper prepared for IMF Conference on Second Generation Reforms, Washington, DC, 1999.    
-[http://www.imf.org/external/pubs/ft/seminar/1999/reforms/Naim.HTM](http://www.imf.org/external/pubs/ft/seminar/1999/reforms/Naim.HTM)
+{{% resource_link "38dee9a0-da36-4e39-a564-bfa199965717" "http://www.imf.org/external/pubs/ft/seminar/1999/reforms/Naim.HTM" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
@@ -46,7 +46,7 @@ Under Development In Theory and Practice 
 Bates, Robert. In *Markets and States in Tropical Africa.* Univ. of California, 1981, pp. 1-44, 81-95.
 
 United Nations Development Programme. *Arab Human Development Report 2002.* skim entire report but focus on Chapters 1,2, and 7.    
-[http://www.undp.org/rbas/ahdr/bychapter.html](http://www.meforum.org/513/how-the-arabs-compare)
+{{% resource_link "33ed8b92-b8fa-45d4-af7d-aa76bd571ec8" "http://www.undp.org/rbas/ahdr/bychapter.html" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
@@ -58,10 +58,10 @@ Shleifer, Andrei, and Robert Vishny. In *The Grabbing Hand: Government Patholo
 
 Boycko, Maxim, Andrei Shleifer and Robert Vishny. In *Privatizing Russia.* Cambridge: MIT Press, 1995, Chap. 1 and 2 (pp. 1-46 ).
 
-Stiglitz, Joseph E. "[Redefining the Role of the State What should it do? How should it Do it? And How should these Decisions be Made? Presented on the Tenth Anniversary of MITI Research Institute](https://www.semanticscholar.org/paper/Redefining-the-Role-of-the-State-%3A-What-should-it-Stiglitz-Economist/4b124f42414a569dc415bdaf034ee21e0f7e08f0)," March 1998.
+Stiglitz, Joseph E. "{{% resource_link "dea049dd-b8e3-4901-99ef-7c685a43003a" "Redefining the Role of the State What should it do? How should it Do it? And How should these Decisions be Made? Presented on the Tenth Anniversary of MITI Research Institute" %}}," March 1998.
 
 Stiglitz, Joseph E. "Wither Reform? Ten Years of Transition." Paper prepared for World Bank Annual Conference on Development Economics, Washington, DC, April, 1999.    
-[http://www.worldbank.org/en/country/haiti](http://www.worldbank.org/en/country/haiti)
+{{% resource_link "113c41f4-c6ed-415c-ac01-b20ae18054ef" "http://www.worldbank.org/en/country/haiti" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
@@ -72,7 +72,7 @@ Development and Social Capital
 Putnam, Robert D.  In *Making Democracy Work: Civic Traditions in Modern Italy.* Princeton: Princeton Univ. Press, 1993, Chapters 4-6 (pp. 121-185).
 
 Francis Fukuyama, "Social Capital and Civil Society," IMF Working Paper WP/00/74, April 2000.    
-[http://www.imf.org/external/pubs/ft/wp/2000/wp0074.pdf](http://www.imf.org/external/pubs/ft/wp/2000/wp0074.pdf)
+{{% resource_link "f3fd37d3-e13c-4854-8f0b-aabc515fccb9" "http://www.imf.org/external/pubs/ft/wp/2000/wp0074.pdf" %}}
 
 Locke, Richard M. "Building Trust." Paper prepared for The Saint-Gobain Centre for Economic Research 5th Conference, Paris, November 2002.
 
@@ -86,7 +86,7 @@ Hernando, de Soto. The Mystery of Capital: Why Capitalism Triumphs in the West a
 
 La Porta, Rafael,  Florencio Lopez-de-Silanes, Andrei Shleifer, and Robert W. Vishny. "Law and Finance." *Journal of Political Economy*, vol. 106, no. 6 (December 1998): 1113-1155.
 
-Alford, William. ["The More Law, the More . . .? Measuring Legal Reform in the People's Republic of China". (PDF)](http://web.stanford.edu/group/siepr/cgi-bin/siepr/?q=system/files/shared/pubs/papers/pdf/credpr59.pdf) Center for Research on Economic Development and Policy Reform: Working Paper no. 59, Stanford University, August 2000.
+Alford, William. {{% resource_link "778f17b1-0e57-4ab3-a9d2-8f4968631f1b" "\"The More Law, the More . . .? Measuring Legal Reform in the People's Republic of China\". (PDF)" %}} Center for Research on Economic Development and Policy Reform: Working Paper no. 59, Stanford University, August 2000.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
@@ -150,7 +150,7 @@ Fujimoto, Takahiro. "Organizational Diversity and Corporate Performance." Paper 
 Catch-Up In A Globalized World
 {{< tdclose >}}{{< tdopen >}}
 
-Saxenian, Anna Lee.  "[Taiwan's Hsinchu Region: Imitator and Partner for Silicon Valley.](https://siepr.stanford.edu/research/publications/taiwans-hsinchu-region-imitator-and-partner-silicon-valley)" SIEPR Discussion Paper no. 00-44, Stanford University, June 2001. 
+Saxenian, Anna Lee.  "{{% resource_link "9e485925-a07c-4931-9c7e-2dc988690be2" "Taiwan's Hsinchu Region: Imitator and Partner for Silicon Valley." %}}" SIEPR Discussion Paper no. 00-44, Stanford University, June 2001. 
 
 Amsden, Alice and Wan-wen Chu. "Beyond Late Development: Upgrading Policies in Taiwan". Chap. 3 *Government-Led Networking.* Cambridge: MIT Press, forthcoming.    
 (to be distributed in class)
@@ -167,14 +167,14 @@ Globalization and Its Discontent
 {{< tdclose >}}{{< tdopen >}}
 
 Williamson, John. "What Should the World Bank Think about the Washington Consensus?" *The World Bank Research Observer* vol. 15, no. 2 (Aug. 2000): 251-64.    
-[http://www.worldbank.org/research/journals/wbro/obsaug00/pdf/(6)Williamson.pdf](http://www.worldbank.org/research/journals/wbro/obsaug00/pdf/(6)Williamson.pdf)
+{{% resource_link "5ffc75c0-4f44-4a32-a508-3a053fb783c2" "http://www.worldbank.org/research/journals/wbro/obsaug00/pdf/(6)Williamson.pdf" %}}
 
 Dani Rodrik, "Feasible Globalizations"    
 \[[https://drodrik.scholar.harvard.edu/publications/feasible-globalizations](https://drodrik.scholar.harvard.edu/publications/feasible-globalizations](https://drodrik.scholar.harvard.edu/publications/feasible-globalizations](https://drodrik.scholar.harvard.edu/publications/feasible-globalizations)   
 )
 
 Margaret, McMillan, Dani Rodrik, and Karen Horn Welch. "When Economic Reform Goes Wrong: Cashews in Mozambique."    
-[http://ksghome.harvard.edu/~.drodrik.academic.ksg/nuts.pdf](http://ksghome.harvard.edu/~.drodrik.academic.ksg/nuts.pdf)
+{{% resource_link "270dbfbc-1729-4c18-be21-4cae64a321d7" "http://ksghome.harvard.edu/~.drodrik.academic.ksg/nuts.pdf" %}}
 
 Stiglitz, Joseph E. *Globalization and Its Discontents.* New York: W.W. Norton, 2002, 23-88.
 
