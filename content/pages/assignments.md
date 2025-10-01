@@ -27,7 +27,7 @@ Shleifer, Andrei, and Robert Vishny. In _The Grabbing Hand: Government Pathologi
 
 Boycko, Maxim, Andrei Shleifer, and Robert Vishny. _Privatizing Russia._ Cambridge: MIT Press, 1995, Chap. 1, 2 (pp. 1-46).
 
-Stiglitz, Joseph E. ["Redefining the Role of the State.](https://www.semanticscholar.org/paper/Redefining-the-Role-of-the-State-Snowdon-Stiglitz/6b425a68c5eb04aaaceecae3ff58ac4a5e066412)" Paper presented on the Tenth Anniversary of MITI Research Center, (March 1998).
+Stiglitz, Joseph E. {{% resource_link "1de4d225-4fd0-4d23-9cc5-22a35a6cf9f8" "\"Redefining the Role of the State." %}}" Paper presented on the Tenth Anniversary of MITI Research Center, (March 1998).
 
 Stiglitz, Joseph E. "Wither Reform? Ten Years of Transition." Paper prepared for World Bank Annual Conference on Development Economics, Washington D.C. (April 1999).  
-[http://www.worldbank.org/research/abcde/washington\_11/pdfs/stiglitz.pdf](http://www.worldbank.org/research/abcde/washington_11/pdfs/stiglitz.pdf)
+{{% resource_link "bbfd458f-6795-4a5c-98d3-5cb0ebfb2900" "http://www.worldbank.org/research/abcde/washington\_11/pdfs/stiglitz.pdf" %}}
